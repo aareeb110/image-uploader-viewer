@@ -1,0 +1,16 @@
+{
+    "name": "Areeb",
+    "username": "aareeb11",
+    "age": 18,
+    "imageInfo": [{
+        "abc": {
+            "s3Urls": ["https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/3Head.png", "https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/b%20r%20u%20h.png", "https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/drippyzoro.JPG"]
+        },
+        "hello": {
+            "s3Urls": ["https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/3Head.png", "https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/b%20r%20u%20h.png", "https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/drippyzoro.JPG"]
+        },
+        "meme": {
+            "s3Urls": ["https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/3Head.png", "https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/b%20r%20u%20h.png", "https://aareeb11imagestorage.s3.us-west-1.amazonaws.com/aareeb990%40gmail.com/drippyzoro.JPG"]
+        }
+    }]
+}
