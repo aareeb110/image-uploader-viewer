@@ -1,0 +1,24 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIAXFMNXM4FDX55SJ5F
+      secret-key: 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
+    region:
+      static: us-west-1
+    stack:
+      auto: false
+
+application:
+  bucket:
+    name: aareeb11imagestorage
+
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      file-size-threshold: 100MB
+      max-file-size: 500MB
+      max-request-size: 50MB
+
+server:
+  port: 8080
